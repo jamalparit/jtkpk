@@ -1,0 +1,4 @@
+/cgi-bin
+/vendor
+*.log
+*.lock
