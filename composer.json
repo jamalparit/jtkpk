@@ -1,0 +1,22 @@
+{
+    "name": "zmd/system",
+    "description": "ZULMD.com - System Template",
+    "type": "project",
+    "require": {
+        "adodb/adodb-php": "^5.20",
+        "dompdf/dompdf": "^0.7.0",
+        "phpmailer/phpmailer": "^5.2",
+        "facebook/graph-sdk": "^5.4",
+        "abraham/twitteroauth": "^0.7.1",
+        "emojione/emojione": "^2.2",
+        "google/recaptcha": "^1.1",
+        "cloudinary/cloudinary_php": "^1.5"
+    },
+    "license": "ZULMD.com",
+    "authors": [
+        {
+            "name": "Zulkifli Mohamed",
+            "email": "mr.putera@gmail.com"
+        }
+    ]
+}

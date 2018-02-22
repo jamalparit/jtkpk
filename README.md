@@ -14,11 +14,12 @@ Selamat datang ke repositori portal bersepadu juruteknik komputer & platform uta
 
 **Modul-Modul :**
 
-* -
+* Log Tugasan Harian & Senarai Semak Harian - Menguruskan log tugasan dan senarai semak harian
 
 **Laporan :**
 
-* -
+* Laporan Tugasan Harian
+* Laporan Speedtest
 
 Sebarang masalah boleh berhubung terus dengan saudara Zulkifli Mohamed [(@putera)](https://github.com/putera). Terima kasih.
 

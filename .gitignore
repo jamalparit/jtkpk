@@ -1,4 +1,4 @@
-/cgi-bin
 /vendor
 *.log
 *.lock
+README.txt
